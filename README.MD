@@ -1,4 +1,4 @@
-# Solidity usecases [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](hhttps://github.com/anhnt4288/solidity-use-cases)
+# Solidity Use Cases [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](hhttps://github.com/anhnt4288/solidity-use-cases)
 
 A curated list of uses case for solidity
 
@@ -11,20 +11,69 @@ Solidity is an object-oriented programming language for writing smart contracts.
   - [Basic](#basic)
   - [Application](#application)
   - [Defi](#defi)
+  - [Contributions](#contribution)
   - [License](#license)
 
 <a name="basic"/>
 
 ## Basic
 
+- 1.HelloWorld  
+- 2.IncDec  
+- 3.PrimitiveDataType  
+- 4.Variables  
+- 5.Constants  
+- 6.Immutable  
+- 7.StateVariable  
+- 8.EtherWei  
+- 9.Gas  
+- 10.IfElse  
+- 11.ForLoop  
+- 12.Mapping  
+- 13.Array  
+- 14.Enum  
+- 15.Struct  
+- 16.DataLocation  
+- 17.Function  
+- 18.ViewPure  
+- 19.Error  
+- 20.FunctionModifier  
+- 21.Events  
+- 22.Constructor  
+- 23.Inheritance  
+- 24.Payable  
+- 25.SendingEther  
+- 26.Fallback  
+- 27.Call  
+- 28.DeletegateCall  
+- 29.FunctionSelector  
+- 30.CallingOtherContract  
+- 31.ContractCreateOtherContract  
+- 32.TryCatch  
+- 33.Library  
+- 34.Hashing  
+- 35.VerifySignature  
+
 <a name="application" />
 
 ## Application
 
+- BiDirectionalPayment  
+- DutchAuction  
+- EnglishAuction  
+- ERC20  
+- MultiSigWallet  
+- UniDirectionalPayment  
 
 <a name="defi" />
 
 ## Defi
+
+- StakingRewards
+
+<a name="contribution" />
+
+## Contributions
 
 Your contributions are always welcome!
 
