@@ -1,6 +1,8 @@
-# Solidity Use Cases [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](hhttps://github.com/anhnt4288/solidity-use-cases)
+# Solidity Use Cases [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/anhnt4288/solidity-use-cases)
 
 A curated list of uses case for solidity
+
+Try on [Remix](https://remix.ethereum.org/)
 
 ## What is Solidity?
 
