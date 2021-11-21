@@ -6,7 +6,12 @@ Try on [Remix](https://remix.ethereum.org/)
 
 ## What is Solidity?
 
-Solidity is an object-oriented programming language for writing smart contracts. It is used for implementing smart contracts on various blockchain platforms,
+Solidity is an object-oriented programming language for writing smart contracts. It is used for implementing smart contracts on various blockchain platforms.
+Solidity is a curly-bracket language. It is influenced by C++, Python and JavaScript, and is designed to target the Ethereum Virtual Machine (EVM). You can find more details about which languages Solidity has been inspired by in the language influences section.
+
+Solidity is statically typed, supports inheritance, libraries and complex user-defined types among other features.
+
+With Solidity you can create contracts for uses such as voting, crowdfunding, blind auctions, and multi-signature wallets.
 
 ## Contents
 
